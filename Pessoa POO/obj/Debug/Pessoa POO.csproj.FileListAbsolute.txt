@@ -1,0 +1,7 @@
+C:\Users\micae\source\repos\Pessoa POO\Pessoa POO\bin\Debug\Pessoa POO.exe.config
+C:\Users\micae\source\repos\Pessoa POO\Pessoa POO\bin\Debug\Pessoa POO.exe
+C:\Users\micae\source\repos\Pessoa POO\Pessoa POO\bin\Debug\Pessoa POO.pdb
+C:\Users\micae\source\repos\Pessoa POO\Pessoa POO\obj\Debug\Pessoa POO.csproj.AssemblyReference.cache
+C:\Users\micae\source\repos\Pessoa POO\Pessoa POO\obj\Debug\Pessoa POO.csproj.CoreCompileInputs.cache
+C:\Users\micae\source\repos\Pessoa POO\Pessoa POO\obj\Debug\Pessoa POO.exe
+C:\Users\micae\source\repos\Pessoa POO\Pessoa POO\obj\Debug\Pessoa POO.pdb
